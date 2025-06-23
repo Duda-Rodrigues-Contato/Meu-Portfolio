@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "telegraf";
+    src: url("telegraf/TelegrafRegular_272984568a25d8528fe2de8b20b29011.otf");
+}
+
+
+.menu {
+
+    text-align: right;
+
+}
+
+
+a {
+
+    text-decoration: none;
+    font-family: "telegraf";
+    color: black;
+    font-size: 20px;
+
+}
+
+
+.c-a, .h-a, .p-a, .sb-a {
+
+    margin-right: 170px;
+
+}
+
+
+#apresententacao {
+
+    text-align: center;
+    margin-top: 190px;
+    
+}
+
+
+.txt-h5 {
+
+    font-family: "Libre Baskerville", serif;
+    font-style: normal;
+    font-size: 23px;
+    top: 150px;
+    text-align: left;
+    margin-left: 660px;
+    margin-bottom: 0px;
+
+}
+
+
+.txt-h3 {
+
+    font-family: "telegraf";
+    font-size: 30px;
+    text-align: left;
+    margin-left: 660px;
+    margin-top: 5px;
+
+}
